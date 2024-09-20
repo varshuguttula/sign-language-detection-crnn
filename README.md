@@ -27,9 +27,10 @@ these technologies have the potential to facilitate real-time communication, emp
 individuals with hearing impairments, and bridge the communication gap between deaf
 and hearing communities.
 
-##Results
-![image](https://github.com/user-attachments/assets/912064f2-3bf6-4a5d-ae1f-1ca622887baf)
-![image](https://github.com/user-attachments/assets/2510a12f-c9fc-48af-9734-438e9e280fdb)
-![image](https://github.com/user-attachments/assets/22f56ec2-bf19-4dea-a823-9af8a2b2c4a9)
-![image](https://github.com/user-attachments/assets/d8905d52-b4cd-4d83-a182-82a7e270bccf)
-![image](https://github.com/user-attachments/assets/cf21e230-2c7c-4191-8837-feb27548667f)
+## Results
+
+![image](https://github.com/user-attachments/assets/202e31fa-e44a-4416-8954-c0c19eea8507)
+![image](https://github.com/user-attachments/assets/389c697c-21ba-4242-8b2a-e43e14fda544)
+![image](https://github.com/user-attachments/assets/4d415a0c-1eae-4e0a-821e-2eeb607ae6e0)
+![image](https://github.com/user-attachments/assets/9ac58954-e4a3-4542-8e82-bdd7d4ce9333)
+
